@@ -1,6 +1,4 @@
-# abaddontij
-
-# Hi, I'm Abaddon! 👋
+# Hi, I'm Grigorii! 👋
 
 DevOps engineer since 2020. I build and run infrastructure: Kubernetes, CI/CD, IaC, observability.
 
